@@ -10,7 +10,7 @@ androidGitVersion {
 }
 
 group = "arm32x.minecraft"
-version = androidGitVersion.name()
+version = "26.3-1"
 
 repositories {
     mavenCentral()
